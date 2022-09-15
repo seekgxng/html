@@ -1,0 +1,104 @@
+
+html {
+  font-size: 22px
+}
+
+body {
+  background-color: rgb(23, 58, 124);
+  color: whitesmoke
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    width: 300px;
+    border-radius: 50%;
+}
+
+.textone {
+  text-align: center;
+  margin-top: 35px;
+  font-size: 30px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.pone {
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom:50px;
+  font-size: 20px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.link {
+  color: aqua;
+}
+
+.aboutone {
+  color: rgb(36, 168, 65);
+  font-size: 30px;
+  margin-bottom: -10px;
+  margin-left: 20px;
+  font-weight: bold;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.abouttwo {
+  color: whitesmoke;
+  font-weight: bold;
+  margin-left: 20px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.aboutthree {
+  color: whitesmoke;
+  margin-left: 20px;
+  font-family:Arial, Helvetica, sans-serif
+}
+
+.aboutfour {
+  color: whitesmoke;
+  font-weight: bold;
+  margin-left: 20px;
+  margin-top: 50px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.aboutfive {
+  color: rgb(36, 168, 65);
+  font-size: 30px;
+  margin-bottom: -10px;
+  margin-left: 20px;
+  margin-top: 50px;
+  font-weight: bold;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.aboutsix {
+  color: whitesmoke;
+  margin-left: 20px;
+  margin-top: 0px;
+  font-family:Arial, Helvetica, sans-serif
+}
+
+.footer {
+  background-color: #11494d;
+  text-align: center;
+  padding: 20px 0;
+  margin-top: 50px;
+}
+
+footer {
+  display: block;
+}
+
+
+
+
+
+
+
+
+
